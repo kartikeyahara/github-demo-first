@@ -1,0 +1,5 @@
+git push -u origin master
+-u for upstream
+
+you can set a different branches also like this
+git push -u origin cats:dogs
